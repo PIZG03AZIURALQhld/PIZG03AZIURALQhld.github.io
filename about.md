@@ -1,41 +1,50 @@
 ---
 layout: default
-title: About Me
+title: Moi
 ---
 
-# About Me
+# Qui je suis
 
-## Who I Am
+Je suis quelqu’un de curieux, et j’ai toujours eu envie de créer quelque chose de mes mains.
 
-I'm a passionate development student dedicated to mastering web technologies and building meaningful projects. My journey in software development is focused on creating clean, efficient, and user-friendly applications.
-
-## Background
-
-Currently pursuing my **BTS SIO (Bachelor in Information Systems)** with the SLAM (Solutions Logicielles et Applications Métier) specialization. This program provides comprehensive training in software development, systems architecture, and enterprise applications.
-
-## Skills & Interests
-
-### Technical Skills
-- **Web Development**: HTML, CSS, JavaScript
-- **Backend**: Node.js, PHP
-- **Databases**: SQL, relational databases
-- **Version Control**: Git, GitHub
-- **Static Site Generators**: Jekyll
-
-### Areas of Interest
-- Full-stack web development
-- User interface design
-- Software architecture
-- Cloud technologies
-- DevOps practices
-
-## Goals
-
-- Build robust, scalable applications
-- Continuously learn new technologies
-- Contribute to open-source projects
-- Help other developers grow
+Aujourd’hui, je suis en BTS SIO option SLAM, un parcours qui me permet d’apprendre à développer des applications, à structurer des projets et à progresser techniquement.
 
 ---
 
-[← Back to Home](./index.html)
+## Ce que j’aime faire
+
+Je n’ai pas envie d’être limité à un seul type de projet.  
+Ce qui m’intéresse, c’est autant le côté **technique** que le côté **artistique**.
+
+J’aimerais pouvoir créer :
+
+- des projets techniques,
+- des projets artistiques,
+- et surtout des projets hybrides, où les deux se complètent.
+
+Pour moi, être performant en programmation et en création visuelle me permettrait de faire exactement ce que je veux, sans contrainte de médium.
+
+---
+
+## Mon parcours
+
+Le BTS SIO SLAM m’aiderais à comprendre le côté developpement, apprendre de nouvelles méthodes, alors que j'apprendrais d'autres choses à côté en autodidacte
+
+---
+
+## Compétences et centres d’intérêt
+
+### Compétences techniques  
+- programmation  
+- Gestion de données  
+- Utilisation d’outils de développement  
+- Création de projets structurés  
+
+### Ce qui m’intéresse
+- Développement/programmation  
+- Dessin
+- Modélisation
+
+---
+
+[← Retour à l’accueil](./index.html)

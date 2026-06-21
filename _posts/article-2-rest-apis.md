@@ -1,120 +1,105 @@
 ---
 layout: default
-title: Article - Understanding REST APIs
+title: Article – Historique de la plateforme des démarches en ligne
 ---
 
-# Understanding REST APIs: A Developer's Guide
+# Historique et évolution de la plateforme des démarches en ligne
 
-**Published:** January 2026 | **Reading time:** 7 min
+**Publié :** 21 juin 2026 | **Temps de lecture :** 5 min
 
 ---
 
 ## Introduction
 
-REST (Representational State Transfer) APIs are the backbone of modern web applications. Understanding how to build and consume them is essential for any developer.
+La mairie utilise une plateforme de démarches en ligne pour centraliser les échanges avec les usagers et simplifier le traitement des demandes.  
+Cette plateforme, basée sur l’outil **Publik** fourni par le prestataire Entr’ouvert, est devenue en quelques années un élément essentiel du fonctionnement de la collectivité.
 
-## What is REST?
-
-REST is an architectural style for distributed systems that uses HTTP requests to perform CRUD (Create, Read, Update, Delete) operations on resources.
-
-### Core Principles
-
-1. **Client-Server Architecture**: Clear separation of concerns
-2. **Statelessness**: Each request contains all necessary information
-3. **Uniform Interface**: Standardized way to communicate
-4. **Resource Identification**: Resources identified by URIs
-5. **Representation**: Resources can be represented in multiple formats
-
-## RESTful Endpoints
-
-A well-designed REST API uses HTTP methods appropriately:
-
-### HTTP Methods
-
-- **GET** - Retrieve resource(s)
-- **POST** - Create a new resource
-- **PUT** - Update an existing resource
-- **PATCH** - Partially update a resource
-- **DELETE** - Remove a resource
-
-### Example Endpoints
-
-```
-GET    /api/users           # List all users
-GET    /api/users/123       # Get user with ID 123
-POST   /api/users           # Create new user
-PUT    /api/users/123       # Update user 123
-DELETE /api/users/123       # Delete user 123
-```
-
-## Status Codes
-
-Understanding HTTP status codes is crucial:
-
-- **2xx**: Success (200 OK, 201 Created)
-- **3xx**: Redirection (301 Moved Permanently)
-- **4xx**: Client Error (400 Bad Request, 404 Not Found)
-- **5xx**: Server Error (500 Internal Server Error)
-
-## Building a REST API
-
-### Example with Node.js/Express
-
-```javascript
-const express = require('express');
-const app = express();
-
-app.get('/api/posts', (req, res) => {
-  res.json({ posts: [] });
-});
-
-app.post('/api/posts', (req, res) => {
-  const newPost = req.body;
-  res.status(201).json(newPost);
-});
-
-app.listen(3000);
-```
-
-## Best Practices
-
-1. **Use Proper HTTP Methods**: Don't use GET for state-changing operations
-2. **Version Your API**: `/api/v1/users`
-3. **Handle Errors Gracefully**: Return meaningful error messages
-4. **Implement Pagination**: For large datasets
-5. **Use Authentication**: Protect sensitive endpoints
-6. **Document Thoroughly**: Use tools like Swagger/OpenAPI
-7. **CORS Handling**: Enable cross-origin requests when needed
-
-## Consuming APIs
-
-### Fetching Data
-
-```javascript
-fetch('/api/users')
-  .then(response => response.json())
-  .then(data => console.log(data))
-  .catch(error => console.error('Error:', error));
-```
-
-### Async/Await
-
-```javascript
-async function getUsers() {
-  try {
-    const response = await fetch('/api/users');
-    const data = await response.json();
-    return data;
-  } catch (error) {
-    console.error(error);
-  }
-}
-```
-
-## Conclusion
-
-REST APIs provide a clean, standardized way to build scalable web services. Master these concepts and you'll be well-equipped for modern web development.
+Dans cet article, je reviens sur son historique, son évolution et les outils qui ont été développés autour d’elle.
 
 ---
 
-[← Back to Articles](./articles.html)
+## Les débuts de la plateforme
+
+La plateforme des démarches en ligne a été créée en **2019**, puis mise en ligne au public le **8 mars 2022**.  
+À son lancement, elle ne proposait que quelques démarches et les signalements.  
+
+Aujourd’hui, elle permet :
+
+- des enquêtes ;
+- des inscriptions ;
+- des démarches administratives ;
+- des démarches internes ;
+- des échanges entre services.
+
+Elle est devenue l’outil central de la collectivité pour gérer les demandes, remplacer les courriels, les fichiers interactifs ou encore les documents papier.
+
+---
+
+## Une plateforme qui grandit chaque année
+
+En quatre ans, la plateforme a beaucoup évolué.  
+Elle s’est enrichie de nouvelles fonctionnalités, de nouveaux formulaires, et surtout de **connexions avec d’autres logiciels de la collectivité**, ce qui a permis de supprimer de nombreuses ressaisies et de fluidifier les processus internes.
+
+### Connexion avec le SIG
+
+La connexion avec le **Système d’Information Géographique (SIG)** a permis :
+
+- d’éviter la ressaisie de données ;
+- d’exploiter certaines démarches à des fins cartographiques.
+
+Un exemple récent est la **cartographie automatisée des arrêtés de voirie**, générée directement à partir des données saisies par les usagers.
+
+### Connexion avec le parapheur électronique
+
+Une autre évolution importante est la connexion avec le **parapheur électronique**.  
+Elle permet :
+
+- de générer automatiquement certains documents (comme les réservations de salles) ;
+- de les envoyer au parapheur pour signature ;
+- de récupérer automatiquement la version signée ;
+- puis de l’envoyer à l’usager depuis la plateforme.
+
+Ce fonctionnement a simplifié le travail des agents et réduit les manipulations manuelles.
+
+---
+
+## Des outils internes pour éviter des logiciels coûteux
+
+En parallèle, plusieurs outils internes ont été conçus et déployés directement sur la plateforme, ce qui évite l’achat de logiciels séparés.  
+Parmi eux :
+
+- l’espace association ;
+- la gestion des candidatures ;
+- les objets trouvés ;
+- l’affichage légal ;
+- une base de connaissance pour la DRAU.
+
+Ces outils permettent à la collectivité de rester autonome tout en répondant aux besoins des services.
+
+---
+
+## Un outil qui continue d’évoluer
+
+La plateforme fête aujourd’hui ses **4 ans** et continue d’évoluer chaque jour.  
+De nouvelles démarches sont ajoutées régulièrement, les workflows sont améliorés, et les services sont accompagnés dans la dématérialisation de leurs processus.
+
+Au quotidien, l’équipe plateforme travaille pour :
+
+- améliorer les démarches existantes ;
+- créer de nouveaux formulaires ;
+- connecter la plateforme à d’autres outils ;
+- simplifier le travail des agents ;
+- faciliter les démarches des usagers.
+
+---
+
+## Conclusion
+
+En quelques années, la plateforme est devenue un outil indispensable pour la mairie.  
+Elle centralise les échanges, simplifie les démarches, automatise les traitements et permet à la collectivité de gagner du temps tout en améliorant la qualité du service rendu.
+
+Son évolution continue montre à quel point la dématérialisation est devenue un enjeu majeur, autant pour les usagers que pour les agents.
+
+---
+
+[← Retour aux articles](./articles.html)
