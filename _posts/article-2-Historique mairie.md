@@ -102,4 +102,4 @@ Son évolution continue montre à quel point la dématérialisation est devenue 
 
 ---
 
-[← Retour aux articles](./articles.html)
+[← Retour aux articles](./articles.md)

@@ -48,4 +48,4 @@ Cette certification m’a permis de découvrir un langage exigeant et comprendre
 
 ---
 
-[← Retour aux articles](./articles.html)
+[← Retour aux articles](./articles.md)

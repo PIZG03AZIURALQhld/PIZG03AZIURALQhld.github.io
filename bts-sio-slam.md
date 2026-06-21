@@ -51,4 +51,4 @@ C’est aussi une bonne base pour continuer à apprendre, que ce soit en autodid
 
 ---
 
-[← Retour à l’accueil](./index.html)
+[← Retour à l’accueil](./index.md)

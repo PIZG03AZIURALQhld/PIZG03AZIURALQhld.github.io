@@ -29,4 +29,4 @@ Un article sur la certification que j’ai obtenue en 2025, avant mon stage, et 
 
 ---
 
-[← Retour à l’accueil](./index.html)
+[← Retour à l’accueil](./index.md)

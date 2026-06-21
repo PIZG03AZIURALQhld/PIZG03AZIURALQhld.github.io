@@ -1,6 +1,6 @@
 title: Portfolio
 
 # Build settings
-theme: jekyll-theme-Midnight
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed

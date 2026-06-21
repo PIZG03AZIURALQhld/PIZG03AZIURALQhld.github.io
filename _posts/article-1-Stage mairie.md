@@ -126,4 +126,4 @@ Chaque semaine m’a permis de progresser, de comprendre de nouvelles choses et 
 
 ---
 
-[← Retour aux articles](./articles.html)
+[← Retour aux articles](./articles.md)

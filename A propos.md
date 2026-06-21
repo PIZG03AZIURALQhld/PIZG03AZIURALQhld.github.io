@@ -47,4 +47,4 @@ Le BTS SIO SLAM m’aiderais à comprendre le côté developpement, apprendre de
 
 ---
 
-[← Retour à l’accueil](./index.html)
+[← Retour à l’accueil](./index.md)
