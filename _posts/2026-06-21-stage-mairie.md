@@ -54,11 +54,11 @@ J’ai aussi découvert la syntaxe particulière de Publik, qui ne fonctionne pa
 J’ai entièrement numérisé un cahier de transmission utilisé par les professionnels.  
 Il permet maintenant :
 
-- d’écrire un message via un formulaire ;
-- de créer automatiquement une fiche associée ;
-- d’ajouter des fichiers ;
-- de trier et filtrer les messages ;
-- de modifier ou supprimer une fiche existante ;
+- d’écrire un message via un formulaire
+- de créer automatiquement une fiche associée
+- d’ajouter des fichiers
+- de trier et filtrer les messages
+- de modifier ou supprimer une fiche existante
 - de gérer l’expiration automatique grâce à un workflow qui vérifie toutes les 10 minutes si une fiche doit être supprimée.
 
 ### Le formulaire de réservation de contenants réemployables
@@ -66,23 +66,23 @@ Il permet maintenant :
 Ce formulaire a été l’un des plus complexes.  
 J’ai dû :
 
-- rendre la liste des contenants extensible ;
-- afficher les images et descriptions ;
-- remplacer un champ numérique par une liste « nombre d’unités – prix » ;
-- créer une deuxième page affichant le total calculé automatiquement ;
-- gérer les dates avec la condition |is_working_day ;
-- permettre la duplication du bloc pour réserver plusieurs contenants.
+- rendre la liste des contenants extensible
+- afficher les images et descriptions
+- remplacer un champ numérique par une liste « nombre d’unités – prix »
+- créer une deuxième page affichant le total calculé automatiquement
+- gérer les dates avec la condition |is_working_day
+- permettre la duplication du bloc pour réserver plusieurs contenants
 
 ### Les abonnements piscines
 
 J’ai créé un formulaire complet permettant aux usagers de s’abonner aux piscines communautaires.  
 Il inclut :
 
-- des champs préremplis si l’usager est connecté ;
-- une adresse en autocomplétion ;
-- un choix d’abonnement avec description affichée via |safe ;
-- des données calculées selon la date, le type d’engagement et le prix ;
-- la création d’un panier pour permettre le paiement en ligne.
+- des champs préremplis si l’usager est connecté
+- une adresse en autocomplétion
+- un choix d’abonnement avec description affichée via |safe
+- des données calculées selon la date, le type d’engagement et le prix
+- la création d’un panier pour permettre le paiement en ligne
 
 ---
 
@@ -90,19 +90,19 @@ Il inclut :
 
 J’ai rencontré plusieurs difficultés, notamment :
 
-- la syntaxe stricte de Publik ;
-- la découverte du JSON ;
-- les liaisons dans les workflows ;
-- la recherche des bonnes sources de données ;
-- la création de documents automatiques (comme les conventions) ;
-- les conditions complexes pour les calculs ou les validations.
+- la syntaxe stricte de Publik
+- la découverte du JSON
+- les liaisons dans les workflows
+- la recherche des bonnes sources de données
+- la création de documents automatiques (comme les conventions)
+- les conditions complexes pour les calculs ou les validations
 
 Pour les surmonter, je me suis appuyé sur :
 
-- la documentation officielle ;
-- les projets déjà existants ;
-- les conseils de mon tuteur ;
-- beaucoup de tests et d’essais.
+- la documentation officielle
+- les projets déjà existants
+- les conseils de mon tuteur
+- beaucoup de tests et d’essais
 
 ---
 
@@ -110,12 +110,12 @@ Pour les surmonter, je me suis appuyé sur :
 
 Ce stage m’a permis de :
 
-- comprendre en profondeur le fonctionnement de Publik ;
-- apprendre à structurer des formulaires complexes ;
-- manipuler des workflows et des données dynamiques ;
-- améliorer ma logique et ma rigueur ;
-- travailler en autonomie tout en répondant à des demandes réelles ;
-- participer à l’évolution d’un service en ligne utilisé quotidiennement.
+- comprendre en profondeur le fonctionnement de Publik
+- apprendre à structurer des formulaires complexes
+- manipuler des workflows et des données dynamiques
+- améliorer ma logique et ma rigueur
+- travailler en autonomie tout en répondant à des demandes réelles
+- participer à l’évolution d’un service en ligne utilisé quotidiennement
 
 ---
 

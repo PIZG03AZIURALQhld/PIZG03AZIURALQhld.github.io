@@ -30,13 +30,13 @@ Ce que je cherchais surtout, c’était de découvrir un nouveau language.
 Le cours était divisé en plusieurs parties, allant des bases jusqu’aux notions avancées.  
 J’ai pu apprendre à :
 
-- écrire mon premier programme ;
-- déclarer des variables et afficher leur valeur ;
-- utiliser les conditions et les boucles ;
-- découper mon code en fonctions ;
-- manipuler des tableaux statiques et dynamiques ;
-- lire et modifier des fichiers ;
-- comprendre et utiliser les pointeurs.
+- écrire mon premier programme
+- déclarer des variables et afficher leur valeur
+- utiliser les conditions et les boucles
+- découper mon code en fonctions
+- manipuler des tableaux statiques et dynamiques
+- lire et modifier des fichiers
+- comprendre et utiliser les pointeurs
 
 Chaque chapitre se terminait par un quizz, ce qui m’a permis de vérifier que j’avais bien compris avant de continuer.
 

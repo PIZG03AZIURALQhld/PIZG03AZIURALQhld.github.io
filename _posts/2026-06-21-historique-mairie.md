@@ -25,11 +25,11 @@ La plateforme des démarches en ligne a été créée en **2019**, puis mise en 
 
 Aujourd’hui, elle permet :
 
-- des enquêtes ;
-- des inscriptions ;
-- des démarches administratives ;
-- des démarches internes ;
-- des échanges entre services.
+- des enquêtes
+- des inscriptions
+- des démarches administratives
+- des démarches internes 
+- des échanges entre services
 
 Elle est devenue l’outil central de la collectivité pour gérer les demandes, remplacer les courriels, les fichiers interactifs ou encore les documents papier.
 
@@ -44,8 +44,8 @@ Elle s’est enrichie de nouvelles fonctionnalités, de nouveaux formulaires, et
 
 La connexion avec le **Système d’Information Géographique (SIG)** a permis :
 
-- d’éviter la ressaisie de données ;
-- d’exploiter certaines démarches à des fins cartographiques.
+- d’éviter la ressaisie de données
+- d’exploiter certaines démarches à des fins cartographiques
 
 Un exemple récent est la **cartographie automatisée des arrêtés de voirie**, générée directement à partir des données saisies par les usagers.
 
@@ -54,10 +54,10 @@ Un exemple récent est la **cartographie automatisée des arrêtés de voirie**,
 Une autre évolution importante est la connexion avec le **parapheur électronique**.  
 Elle permet :
 
-- de générer automatiquement certains documents (comme les réservations de salles) ;
-- de les envoyer au parapheur pour signature ;
-- de récupérer automatiquement la version signée ;
-- puis de l’envoyer à l’usager depuis la plateforme.
+- de générer automatiquement certains documents (comme les réservations de salles)
+- de les envoyer au parapheur pour signature
+- de récupérer automatiquement la version signée
+- puis de l’envoyer à l’usager depuis la plateforme
 
 Ce fonctionnement a simplifié le travail des agents et réduit les manipulations manuelles.
 
@@ -68,11 +68,11 @@ Ce fonctionnement a simplifié le travail des agents et réduit les manipulation
 En parallèle, plusieurs outils internes ont été conçus et déployés directement sur la plateforme, ce qui évite l’achat de logiciels séparés.  
 Parmi eux :
 
-- l’espace association ;
-- la gestion des candidatures ;
-- les objets trouvés ;
-- l’affichage légal ;
-- une base de connaissance pour la DRAU.
+- l’espace association
+- la gestion des candidatures
+- les objets trouvés 
+- l’affichage légal
+- une base de connaissance pour la DRAU
 
 Ces outils permettent à la collectivité de rester autonome tout en répondant aux besoins des services.
 
@@ -85,11 +85,11 @@ De nouvelles démarches sont ajoutées régulièrement, les workflows sont amél
 
 Au quotidien, l’équipe plateforme travaille pour :
 
-- améliorer les démarches existantes ;
-- créer de nouveaux formulaires ;
-- connecter la plateforme à d’autres outils ;
-- simplifier le travail des agents ;
-- faciliter les démarches des usagers.
+- améliorer les démarches existantes
+- créer de nouveaux formulaires
+- connecter la plateforme à d’autres outils
+- simplifier le travail des agents
+- faciliter les démarches des usagers
 
 ---
 
