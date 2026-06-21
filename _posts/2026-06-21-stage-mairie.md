@@ -40,7 +40,7 @@ Publik était un outil totalement nouveau pour moi. J’ai appris à :
 - construire des blocs réutilisables ;
 - manipuler des sources de données ressemblant à des dictionnaires JSON ;
 - écrire des conditions pour afficher ou masquer des champs ;
-- utiliser des filtres comme `|multiply`, `|subtract`, `|is_working_day`, `|safe`, etc. ;
+- utiliser des filtres comme |multiply, |subtract, |is_working_day, |safe, etc. ;
 - créer ou modifier des workflows pour gérer les statuts, les courriels, les documents générés, ou encore les actions automatiques.
 
 J’ai aussi découvert la syntaxe particulière de Publik, qui ne fonctionne pas comme Python ou d’autres langages que j’avais déjà utilisés. Il fallait donc être très précis, surtout pour les blocs `{% if %}` et `{% with %}`.
