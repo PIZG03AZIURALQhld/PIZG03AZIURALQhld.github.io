@@ -1,6 +1,7 @@
 title: Portfolio
 
 # Build settings
-theme: Tactile
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
