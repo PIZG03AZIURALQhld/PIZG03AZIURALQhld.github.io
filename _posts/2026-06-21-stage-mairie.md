@@ -43,7 +43,7 @@ Publik était un outil totalement nouveau pour moi. J’ai appris à :
 - utiliser des filtres comme |multiply, |subtract, |is_working_day, |safe, etc. ;
 - créer ou modifier des workflows pour gérer les statuts, les courriels, les documents générés, ou encore les actions automatiques.
 
-J’ai aussi découvert la syntaxe particulière de Publik, qui ne fonctionne pas comme Python ou d’autres langages que j’avais déjà utilisés. Il fallait donc être très précis, surtout pour les blocs `{% if %}` et `{% with %}`.
+J’ai aussi découvert la syntaxe particulière de Publik, qui ne fonctionne pas comme Python ou d’autres langages que j’avais déjà utilisés. Il fallait donc être très précis, surtout pour les blocs {% if %} et {% with %}.
 
 ---
 
@@ -70,7 +70,7 @@ J’ai dû :
 - afficher les images et descriptions ;
 - remplacer un champ numérique par une liste « nombre d’unités – prix » ;
 - créer une deuxième page affichant le total calculé automatiquement ;
-- gérer les dates avec la condition `|is_working_day` ;
+- gérer les dates avec la condition |is_working_day ;
 - permettre la duplication du bloc pour réserver plusieurs contenants.
 
 ### Les abonnements piscines
@@ -80,7 +80,7 @@ Il inclut :
 
 - des champs préremplis si l’usager est connecté ;
 - une adresse en autocomplétion ;
-- un choix d’abonnement avec description affichée via `|safe` ;
+- un choix d’abonnement avec description affichée via |safe ;
 - des données calculées selon la date, le type d’engagement et le prix ;
 - la création d’un panier pour permettre le paiement en ligne.
 
