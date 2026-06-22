@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Article – Certification OpenClassrooms : Débuts en C++
 ---
 

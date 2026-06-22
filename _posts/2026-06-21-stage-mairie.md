@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Article – Mon stage à la mairie
 ---
 

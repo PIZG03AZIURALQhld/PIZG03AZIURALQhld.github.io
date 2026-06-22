@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Article – Historique de la plateforme des démarches en ligne
 ---
 
