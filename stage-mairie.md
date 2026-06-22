@@ -2,6 +2,7 @@
 layout: post
 title: Article – Mon stage à la mairie
 date: 2026-06-21
+permalink: /stage-mairie/
 ---
 
 # Mon stage à la mairie : découverte de Publik
