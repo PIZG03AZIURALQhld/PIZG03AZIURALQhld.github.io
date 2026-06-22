@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Article – Mon stage à la mairie
-date: 2026-06-21
 ---
 
 # Mon stage à la mairie : découverte de Publik
