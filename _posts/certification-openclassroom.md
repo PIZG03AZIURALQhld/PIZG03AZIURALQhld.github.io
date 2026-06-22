@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Article – Certification OpenClassrooms : Débuts en C++
+date: 2026-10-11
 ---
 
 # Certification OpenClassrooms : Débuts en C++
