@@ -5,7 +5,7 @@ title: Article – Historique de la plateforme des démarches en ligne
 
 # Historique et évolution de la plateforme des démarches en ligne
 
-**Publié :** 21 juin 2026 | **Temps de lecture :** 5 min
+**Publié :** 21 juin 2026 | **Temps de lecture :** 4 min
 
 ---
 
