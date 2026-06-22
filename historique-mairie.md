@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Article – Historique de la plateforme des démarches en ligne
 date: 2026-06-21
 ---
