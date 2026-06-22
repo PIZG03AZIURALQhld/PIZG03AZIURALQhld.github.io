@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Article – Certification OpenClassrooms : Débuts en C++"
 date: 2026-10-11
 ---
