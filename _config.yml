@@ -1,7 +1,6 @@
 title: Portfolio
 
 # Build settings
-permalink: /:title/
 theme: jekyll-theme-Midnight
 plugins:
   - jekyll-feed
