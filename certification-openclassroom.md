@@ -5,7 +5,7 @@ title: "Article – Certification OpenClassrooms : Débuts en C++"
 
 # Certification OpenClassrooms : Débuts en C++
 
-**Publié :** Octobre 2025 | **Temps de lecture :** 3 min
+**Publié :** Octobre 2025 | **Temps de lecture :** 2 min
 
 ---
 
