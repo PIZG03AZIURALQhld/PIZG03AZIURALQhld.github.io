@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Article – Mon stage à la mairie
 date: 2026-06-21
 ---
